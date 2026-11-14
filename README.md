@@ -1,1 +1,1 @@
-# Portfolio-vs.-S-P-500
+Did a simple 5-stock portfolio beat the S&P 500 over the last 10 years after accounting for risk? This project pulls daily price data, stores it in SQL, analyzes return and risk in Python, and presents results in a Tableau dashboard.
